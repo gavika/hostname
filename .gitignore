@@ -1,0 +1,8 @@
+tests/test.sh
+*.retry
+molecule/default/.molecule/
+*.pyc
+molecule/**/.pytest_cache
+molecule/**/.molecule/
+molecule/**/roles/
+*.log
