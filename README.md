@@ -25,7 +25,7 @@ Example Playbook
 ```yml
 - hosts: servers
   vars:
-    hostname_hostname: gavika.com
+    hostname_hostname: example.com
   roles:
      - gavika.hostname
 ```
