@@ -1,7 +1,10 @@
 Hostname
 =========
 
-Ansible role to set hostname.
+Ansible role to set hostname. This role is tested manually.
+
+We're working on getting the automated tests to work. Till that time, the role
+will be tagged as beta and not available on Galaxy.
 
 Requirements
 ------------
