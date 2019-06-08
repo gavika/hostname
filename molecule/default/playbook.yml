@@ -1,0 +1,7 @@
+---
+- name: Converge
+  hosts: all
+  vars:
+    hostname_hostname: example.com
+  roles:
+    - role: hostname
